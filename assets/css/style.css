@@ -1,0 +1,77 @@
+
+body{
+    font-family: "Raleway";
+}
+
+
+.navbar{
+    background: #373A3C;
+}
+
+.Logo{
+    width: 12rem;
+}
+
+#hero-section{
+    background-image: url(/assets/img/bg-hero.jpg);
+        display: flex;
+        width: 100%;
+        height: 80vh;
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-position: center;
+    }
+
+#navbarNav ul li a{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+
+.tituloh1{
+    color:#FFFFFF;
+    font-size: 70px;
+    
+}
+
+.card-title{
+    font-size:26px ;
+    font-weight: 600;
+    color: #373A3C;
+}
+.card-text{
+    font-size:18px ;
+    font-weight: 400;
+    color: #373A3C
+
+}
+.elparrafo{
+    font-size: 18px;
+    font-weight: 400;
+    color:#FFFFFF;
+}
+
+
+.card{
+    width:  95%;
+}
+
+.footer{
+   height:  100px;
+}
+
+
+.formulario{
+
+    margin-bottom: 5rem;
+}
+label{
+    margin-top: 1rem;
+}
+
+img{
+    width: 100%;
+height: 300px;
+}
+
